@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(156, 123, 128);
+    color: black;
+    padding: 20px;
+}
+table{
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 100vh;
+    height: 50vh;
+}
+td{
+    margin: 10px;
+    border: 2px solid black;
+}
+
+form{
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 50vh;
+    height: 40vh;
+    text-align: justify;
+}
